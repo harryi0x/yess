@@ -1,0 +1,39 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 04 Apr 2026 15:03:08 at https://admin.pixelstrap.com/cuba/template/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://admin.pixelstrap.com/cuba/template/index.html
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://admin.pixelstrap.com/cuba/template/index.html -O1 "C:\Users\BCL\Downloads\Cuba template" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://admin.pixelstrap.com/cuba/template/index.html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:12:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://admin.pixelstrap.com/cuba/template/knowledgebase.html (from https://admin.pixelstrap.com/cuba/template/index.html)
+15:12:19	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/assets/css/vendors/ajax-loader.gif (from https://admin.pixelstrap.com/cuba/assets/css/vendors/slick.css)
+15:12:19	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/assets/css/vendors/fonts/slick.eot (from https://admin.pixelstrap.com/cuba/assets/css/vendors/slick.css)
+15:12:19	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/assets/css/vendors/fonts/slick.eot? (from https://admin.pixelstrap.com/cuba/assets/css/vendors/slick.css)
+15:12:19	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/assets/css/vendors/fonts/slick.woff (from https://admin.pixelstrap.com/cuba/assets/css/vendors/slick.css)
+15:12:19	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/assets/css/vendors/fonts/slick.ttf (from https://admin.pixelstrap.com/cuba/assets/css/vendors/slick.css)
+15:12:19	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/assets/css/vendors/fonts/slick.svg (from https://admin.pixelstrap.com/cuba/assets/css/vendors/slick.css)
+15:12:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://admin.pixelstrap.com/cuba/assets/images/dashboard-7/attendance/student-leader/user-1.jpg (from https://admin.pixelstrap.com/cuba/template/dashboard-07.html)
+15:12:25	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/template/root/ (from https://admin.pixelstrap.com/cuba/template/file-manager.html)
+15:12:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://admin.pixelstrap.com/cuba/assets/images/social-app/post-1.png (from https://admin.pixelstrap.com/cuba/template/social-app.html)
+15:12:28	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/template/sample.pdf (from https://admin.pixelstrap.com/cuba/template/datatable-basic-init.html)
+15:12:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://admin.pixelstrap.com/cuba/assets/images/gif/time.gif (from https://admin.pixelstrap.com/cuba/template/modal.html)
+15:12:28	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/template/cropped.jpg (from https://admin.pixelstrap.com/cuba/template/image-cropper.html)
+15:12:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://admin.pixelstrap.com/cuba/assets/images/masonry/4.jpg (from https://admin.pixelstrap.com/cuba/template/AOS.html)
+15:12:31	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/template/calendar-basic.html (from https://admin.pixelstrap.com/cuba/template/list-wish.html)
+15:12:31	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/template/search.html (from https://admin.pixelstrap.com/cuba/template/list-wish.html)
+15:12:31	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/template/error-400.html (from https://admin.pixelstrap.com/cuba/template/list-wish.html)
+15:12:31	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/template/error-401.html (from https://admin.pixelstrap.com/cuba/template/list-wish.html)
+15:12:31	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/template/error-503.html (from https://admin.pixelstrap.com/cuba/template/list-wish.html)
+15:12:31	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/template/gallery-hover.html (from https://admin.pixelstrap.com/cuba/template/list-wish.html)
+15:12:31	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/template/course-detailed.html (from https://admin.pixelstrap.com/cuba/template/list-wish.html)
+15:12:31	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/template/product-grid-view.html (from https://admin.pixelstrap.com/cuba/template/list-wish.html)
+15:12:31	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/assets/css/img/flags.png (from https://admin.pixelstrap.com/cuba/assets/css/vendors/intltelinput.min.css)
+15:12:31	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/assets/css/img/flags@2x.png (from https://admin.pixelstrap.com/cuba/assets/css/vendors/intltelinput.min.css)
+15:12:31	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/assets/css/vendors/preloader.gif (from https://admin.pixelstrap.com/cuba/assets/css/vendors/photoswipe.css)
+15:12:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://admin.pixelstrap.com/cuba/assets/images/gif/time.gif (from https://admin.pixelstrap.com/cuba/template/modal.html)
+15:12:31	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/assets/css/vendors/images/layers.png (from https://admin.pixelstrap.com/cuba/assets/css/vendors/leaflet.css)
+15:12:31	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/cuba/assets/css/vendors/images/layers-2x.png (from https://admin.pixelstrap.com/cuba/assets/css/vendors/leaflet.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 24 seconds : 1377 links scanned, 1348 files written (88093737 bytes overall) [56567956 bytes received at 100297 bytes/sec], 38902966 bytes transferred using HTTP compression in 542 files, ratio 17%, 25.0 requests per connection
+(22 errors, 6 warnings, 0 messages)
